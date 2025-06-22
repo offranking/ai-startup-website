@@ -68,19 +68,18 @@ Now git origin update-navigation
 <img width="870" alt="Screenshot 2025-06-22 at 7 16 34 pm" src="https://github.com/user-attachments/assets/8054e927-53b8-4108-b4e1-3a91c4125055" />
 
 In the final step, you can confirm all your changes by using the git commit -m command to record your updates.
-
 git commit -m "Add contact info section"
 
 Before committing, make sure you've staged your files. For instance, to add a specific file like index.html, you would run:
-
 git add index.html
 
 Once committed, you can push the changes to your remote repository using:
 git push origin add-contact-info
+
 This command pushes your updates to the add-contact-info branch on your GitHub repository, making your work live and accessible.
 
 
-![Uploading Screenshot 2025-06-22 at 7.26.51 pm.png…]()
+<img width="870" alt="Screenshot 2025-06-22 at 7 26 51 pm" src="https://github.com/user-attachments/assets/c2b6cd76-a121-41e2-81db-50fab36a8928" />
 
 
 

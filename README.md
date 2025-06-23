@@ -21,7 +21,22 @@ In this case, I created a folder named biodun-git-project to organize my Git wor
 <img width="1349" alt="Screenshot 2025-06-22 at 6 38 14 pm" src="https://github.com/user-attachments/assets/fffe1d60-a1b2-493f-89d5-77ef62fd15f7" />
 
 
-cd in to the repository and creat a file called index.html and also add a text inside the folder
+Navigate into the project folder
+Open your terminal and change into the folder named biodun-git-project by running:
+cd biodun-git-project
+List the contents of the folder
+To view the files and directories inside, use the ls command
+You should see a file named README.md and a folder called ai-startup-website
+Enter the ai-startup-website directory
+cd ai-startup-website
+Inside this directory, create a new file named index.html using the touch command
+touch index.html
+
+<img width="1213" alt="Screenshot 2025-06-23 at 11 09 00 am" src="https://github.com/user-attachments/assets/58eee59e-6370-4210-b7e7-8c61c718e46e" />
+
+
+ To open and edit the index.html file, use the following command "vim index.html"
+ Press i to enter Insert Mode – this allows you to start typing and add your desired content.
 
 <img width="1349" alt="Screenshot 2025-06-22 at 6 48 12 pm" src="https://github.com/user-attachments/assets/00cd0de6-1fec-43f5-b2c9-abd3ce6333d3" />
 
